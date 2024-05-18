@@ -20,7 +20,6 @@
 	<bean id="pointC" class="org.koushik.javabrains.Point">
 		<property name="x" value="0"></property>
 		<property name="y" value="20"></property>
-	</bean>
-
+	</bean>	
 	
 </beans>
